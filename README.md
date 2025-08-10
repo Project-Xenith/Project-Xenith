@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey There 👋, I'm Sparsh Sundriyal AKA Xenith</h1>
-<h3 align="center">A passionate computer science enthusiast from India, I love working on computer hardware and IoT devices. My favourite OS is Linux. I am currently experimenting with Fedora 38. I want to have a career in Cyber security.</h3>
+<h3 align="center">A passionate computer science enthusiast and Engineer from India, I currently work as a Data Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/sGv2hrQnMHQAAAAC/computer-kyle.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=project-xenith&label=Profile%20views&color=0e75b6&style=flat" alt="project-xenith" /> </p>
 
-- 🌱 I’m currently learning **AWS, Kubernetes and Terraform**
+- 🌱 I’m currently learning **ML and Databricks**
 
-- 🤝 I’m looking for help with **Cyber Security and devops**
+- 🤝 I’m looking for help with **AI and ML**
 
-- 💬 Ask me about **AWS and Linux**
+- 💬 Ask me about **PySpark, ETL and Data Pipelines**
 
 - 📫 How to reach me **projectxenith25@gmail.com**
 
